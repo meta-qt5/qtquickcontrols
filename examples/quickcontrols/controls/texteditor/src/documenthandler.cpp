@@ -54,6 +54,7 @@
 #include <QtGui/QTextCursor>
 #include <QtGui/QFontDatabase>
 #include <QtCore/QFileInfo>
+#include <QtCore/QDebug>
 
 DocumentHandler::DocumentHandler()
     : m_target(0)
